@@ -2,6 +2,9 @@
 
 Based on [illogical impulse (ii)](https://github.com/end-4/dots-hyprland) by end-4.
 
+![thing.webp](https://github.com/MemeCake789/dotfiles/blob/main/thing.webp)
+
+
 ## Components
 
 - **Hyprland**: Wayland compositor configuration
@@ -22,3 +25,6 @@ This setup requires the full illogical impulse environment. See the [installatio
 ## Credits
 
 Original template: [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+
+## TODO
+[ ] Add discord theme css
